@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "fastapisqlite"
+version = "0.1.0"
+description = ""
+authors = ["Alejandro Castellanos <alejandro.castellanos@grupor5.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.115.6"
+uvicorn = "^0.32.1"
+sqlalchemy = "^2.0.36"
+httpx = "^0.28.1"
+
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.3.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

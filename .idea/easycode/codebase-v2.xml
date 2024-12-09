@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/infraestructure/controllers/__init__.py;/Users/user/Documents/Personal/FastApiSqlite/infraestructure/controllers/user_controller.py;/Users/user/Documents/Personal/FastApiSqlite/infraestructure/db/__init__.py;/Users/user/Documents/Personal/FastApiSqlite/infraestructure/db/db.py;/Users/user/Documents/Personal/FastApiSqlite/infraestructure/models/__init__.py;/Users/user/Documents/Personal/FastApiSqlite/infraestructure/models/user.py;/Users/user/Documents/Personal/FastApiSqlite/infraestructure/routes/__init__.py;/Users/user/Documents/Personal/FastApiSqlite/infraestructure/routes/user_router.py;/Users/user/Documents/Personal/FastApiSqlite/infraestructure/schemas/__init__.py;/Users/user/Documents/Personal/FastApiSqlite/infraestructure/schemas/user_schema.py;/Users/user/Documents/Personal/FastApiSqlite/infraestructure/__init__.py;/Users/user/Documents/Personal/FastApiSqlite/test/__init__.py;/Users/user/Documents/Personal/FastApiSqlite/main.py;/Users/user/Documents/Personal/FastApiSqlite/test_main.py" />
+  </component>
+</project>
